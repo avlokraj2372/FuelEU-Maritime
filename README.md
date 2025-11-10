@@ -355,9 +355,9 @@ Implements **FuelEU Article 21 – Pooling**
 
   ## 👨‍💻 Author
 
-  **Ayush Dubey**  
+  **Avlok raj**  
   🎓 MCA, Maulana Azad National Institute of Technology (MANIT), Bhopal  
-  🌐 [GitHub](https://github.com/dubeyayush09)  
-  📧 Email: dubeyayush09@gmail.com  
+  🌐 https://github.com/avlokraj2372
+  📧 Email: rajavlok@gmail.com 
 
   ---
